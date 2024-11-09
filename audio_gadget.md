@@ -188,7 +188,8 @@ pactl unload-module <module_id>
 2. Under the `Recording` tab, select the USB Audio device.
 3. Use the loopback function in Windows to test the device as a recording source.
 
-   [![Preview](./static/gaudio/setting_win.png)](https://github.com/user-attachments/assets/caf2925f-9e51-411e-a619-16bcf60c29c4)
+   [![Preview](./static/gaudio/setting_win.png)](https://github.com/user-attachments/assets/346f3ba1-7b98-4bc1-8387-e156b472fd06)
+
 
 5. Setting up the gadget device:
 
