@@ -60,7 +60,7 @@ The `usb-gadget-manager` utility program provides easy TUI-based configuration o
 3. Configure parameters such as sampling rate, channel configuration, and sample size.
 4. Enable the gadget by saving your settings.
 
-[![<Check video>](./static/gaudio/audio_gadget.png)](https://github.com/user-attachments/assets/446c40e0-e0b4-4f37-aaba-f9b8fee9f951)
+[![<Check video>](./static/gaudio/audio_gadget.png)](https://github.com/user-attachments/assets/d6fa249c-fc94-4c1d-8b2c-5a605b60d0a0)
 
 ### Enabling Directly Through ConfigFS
 1. Create the necessary directory structure under `/sys/kernel/config/usb_gadget/`.
